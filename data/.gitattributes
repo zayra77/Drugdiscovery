@@ -1,3 +1,0 @@
-CCLinfo.csv filter=lfs diff=lfs merge=lfs -text
-DrugAUC.csv filter=lfs diff=lfs merge=lfs -text
-readme filter=lfs diff=lfs merge=lfs -text
