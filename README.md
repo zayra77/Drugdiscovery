@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb051d3e5931fe94c2e8a55ed7bc606a0022f40377e4f8b9d33957cd23fc2981
-size 239
+app.R is the main script, which you could simply import into R studio, and type "Run APP" to run it. 
+
+volcanoplot.R is a function that was called by app.R
+
+all the files in Data directory are used to generate valcanoplot.
