@@ -1,0 +1,10 @@
+name: Drugdiscovery
+title: Drugdiscovery
+username: drugdiscovery
+account: drugdiscovery
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9504592
+bundleId: 7493884
+url: https://drugdiscovery.shinyapps.io/Drugdiscovery/
+version: 1
