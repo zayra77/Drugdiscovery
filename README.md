@@ -3,7 +3,7 @@ This ShinyApp serves as a valuable tool for researchers seeking to access gene-r
 
 To initiate an analysis, users are required to submit a gene of interest to the 'Gene Related Drugs' module. This step allows users to visualize the relationship between the expression of the selected gene and drug response using a volcano plot.
 
-The 'Expression' feature provides users with the expression levels of the submitted gene across all tumor cell lines in the CTRP database. These gene expression distributions are effectively presented using box plots, with all gene expression values logarithmically transformed to the base 2 (log2).
+The 'Expression' module provides users with the expression levels of the submitted gene across all tumor cell lines in the CTRP database. These gene expression distributions are effectively presented using box plots, with all gene expression values logarithmically transformed to the base 2 (log2).
 
 Within the 'Fraction' page, users can gain insights into the proportion of responsive drugs by calculating the ratio of drugs with an absolute correlation coefficient exceeding 0.3 and a p-value less than 0.05 in various cell lines. These drugs are categorized into a 'resistant group' (correlation coefficients >0.3) and a 'sensitivity group' (correlation coefficients < −0.3). The module employs a Pyramid plot to visualize the ratio distribution of related drugs between these two groups.
 
